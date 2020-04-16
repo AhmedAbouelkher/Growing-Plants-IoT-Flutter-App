@@ -6,6 +6,9 @@ This amazing App UI is built on the amazing design of [Den Klenkov](https://drib
 - For more Flutter apps: [From Here](https://github.com/AhmedAbouelkher "profile")
 - Live Demo: [From Here](https://youtu.be/wZZX123ohpE "App Demo")  
 
-## Screenshots
+## Design
+![orignal design](http://cdn.dribbble.com/users/563897/screenshots/6522758/plant1_4x.png?compress=1)
+
+## Implementation
 
 <img src="screenshots/screenshot__1.png" width="300"> <img src="screenshots/screenshot__2.png" width="300">  <img src="screenshots/screenshot__3.png" width="300">  

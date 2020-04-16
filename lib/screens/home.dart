@@ -43,7 +43,7 @@ class _HomeState extends State<Home> {
   @override
   void initState() {
     super.initState();
-    SystemChrome.setEnabledSystemUIOverlays([SystemUiOverlay.bottom]);
+    SystemChrome.setEnabledSystemUIOverlays([]);
   }
 
   @override

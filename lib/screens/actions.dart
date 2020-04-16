@@ -27,28 +27,6 @@ class PlantActions extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Color(0xff1C1B27),
-      // appBar: AppBar(
-      //   backgroundColor: Colors.transparent,
-      //   elevation: 0,
-      //   leading: InkWell(
-      //     onTap: () => Navigator.pop(context),
-      //     child: Hero(
-      //       transitionOnUserGestures: true,
-      //       tag: 'backarrow',
-      //       child: Icon(Icons.arrow_back_ios,
-      //           color: Colors.white, size: response.setHeight(18)),
-      //     ),
-      //   ),
-      // ),
-
-      /*
-      IconButton(
-                  padding: EdgeInsets.all(0),
-                  icon: Icon(Icons.arrow_back_ios,
-                      color: Colors.white, size: response.setHeight(18)),
-                  onPressed: () => Navigator.pop(context),
-                ),
-       */
       body: SingleChildScrollView(
         child: Padding(
           padding: EdgeInsets.only(left: response.setWidth(30)),
